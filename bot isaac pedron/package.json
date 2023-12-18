@@ -1,0 +1,18 @@
+{
+  "name": "bot-isaac-pedron",
+  "version": "1.0.0",
+  "type": "module.cjs",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "openai": "^4.21.0"
+  }
+}
